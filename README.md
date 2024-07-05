@@ -3,9 +3,9 @@ tsfcoll
 
 The authors are: 
 
-*Angelamaria Cardone webpage https://docenti.unisa.it/005020/home; email encardone@unisa.it
-*Dajana Conte webpage https://docenti.unisa.it/020280/home; email dajconte@unisa.it;
-*Beatrice Paternoster webpage https://docenti.unisa.it/000793/home; email beapat@unisa.it.
+Angelamaria Cardone webpage https://docenti.unisa.it/005020/home; email encardone@unisa.it
+Dajana Conte webpage https://docenti.unisa.it/020280/home; email dajconte@unisa.it;
+Beatrice Paternoster webpage https://docenti.unisa.it/000793/home; email beapat@unisa.it.
 
 # Description
 
