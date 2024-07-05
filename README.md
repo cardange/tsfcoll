@@ -1,6 +1,17 @@
 # tsfcoll
 tsfcoll
 
+The authors are: Angelamaria Cardone, Dajana Conte, Beatrice Paternoster (Department of Mathematics, University of Salerno, Italy).
+
+Some information about the authors:
+
+Angelamaria Cardone webpage https://docenti.unisa.it/005020/home; email encardone@unisa.it
+Dajana Conte webpage https://docenti.unisa.it/020280/home; email dajconte@unisa.it;
+Beatrice Paternoster webpage https://docenti.unisa.it/000793/home; email beapat@unisa.it.
+
+# Description
+
+
 TSFCOLL solves an initial value problem for a fractional differential equation (FDE) by means of two step spline collocation methods.
 
  Two step spline collocation methods based are a generalization to FDEs of two step collocation methods for ODEs. This code implements methods introduced in [3], and further analyzed in [2]. A multivalue technique and a suitable graded mesh are used to obtain high order of convergence.  The starting procedure consists of the one step spline collocation methods  (compare [4] and https://github.com/cardange/tsfcoll) Please, cite this code as [1,2,3] if you need.
